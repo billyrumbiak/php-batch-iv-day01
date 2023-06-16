@@ -1,5 +1,5 @@
 <?php
-    phpinfo();
+    // phpinfo();
     $txt = "PHP";
     echo "I love $txt!";
 ?>
